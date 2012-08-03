@@ -22,9 +22,9 @@
         <file>
           <filename>static/images/epm/edshare_theme.png</filename>
           <mime_type>inode/symlink</mime_type>
-          <hash>b259103ed807039169d251b9b571920f</hash>
+          <hash>2f45123349091c87460a5ebf4e427380</hash>
           <hash_type>MD5</hash_type>
-          <filesize>11036</filesize>
+          <filesize>106736</filesize>
         </file>
         <file>
           <filename>themes/edshare_theme/static/images/JISCcolour7.gif</filename>
@@ -100,9 +100,9 @@
         <file>
           <filename>static/images/epm/edshare_theme.png</filename>
           <mime_type>inode/symlink</mime_type>
-          <hash>b259103ed807039169d251b9b571920f</hash>
+          <hash>2f45123349091c87460a5ebf4e427380</hash>
           <hash_type>MD5</hash_type>
-          <filesize>11036</filesize>
+          <filesize>106736</filesize>
         </file>
       </files>
       <format>image</format>
